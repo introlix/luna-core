@@ -1,6 +1,7 @@
 numpy
 pandas
-langchain-ollama
+llama-cpp-pythonoo
+huggingface-hub
 fastapi
 uvicorn
 Jinja2

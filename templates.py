@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(message)s')
 
-project_name = "luna-core"
+project_name = "luna"
 
 list_of_files = [
     f"src/{project_name}/components/__init__.py",
