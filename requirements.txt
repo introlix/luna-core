@@ -1,6 +1,6 @@
 numpy
 pandas
-llama-cpp-pythonoo
+llama-cpp-python
 huggingface-hub
 fastapi
 uvicorn
